@@ -1,3 +1,3 @@
-# PD_Burmistris
+# Burmistris PD_Burmistris
 Patstāvīgais praktiskais darbs programmēšanā
 Patstāvīgais darbs platformā GitHub ar versiju kontroles sistēmu Git
